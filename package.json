@@ -1,0 +1,32 @@
+{
+  "name": "ppi-atividade-2025",
+  "version": "1.0.0",
+  "description": "Atividade PPI 2025",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoMrksz/PPI-ATIVIDADE-2025.git"
+  },
+  "keywords": [
+    "express",
+    "sessão",
+    "nodejs",
+    "servidor",
+    "web",
+    "http"
+  ],
+  "author": "Thiago Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoMrksz/PPI-ATIVIDADE-2025/issues"
+  },
+  "homepage": "https://github.com/ThiagoMrksz/PPI-ATIVIDADE-2025#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
